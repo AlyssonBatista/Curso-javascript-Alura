@@ -1,2 +1,2 @@
-# Curso javascript Alura
- Códigos do curso de javascript Alura
+# Curso javascript AL
+ Códigos do curso de javascript AL
